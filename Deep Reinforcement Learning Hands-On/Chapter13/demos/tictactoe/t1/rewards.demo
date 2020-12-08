@@ -1,0 +1,5 @@
+{"version": 1, "_debug_version": "0.0.1"}
+{"from_rewarder": true, "message": {"headers": {"message_id": 0, "sent_at": 1517131295.883083, "episode_id": "19"}, "body": {"env_id": "wob.mini.TicTacToe-v0", "env_state": "resetting", "fps": 15}, "method": "v0.env.describe"}, "timestamp": 1517131295.8834958}
+{"from_rewarder": true, "message": {"headers": {"message_id": 1, "sent_at": 1517131295.9212115, "episode_id": "19"}, "body": {"env_id": "wob.mini.TicTacToe-v0", "env_state": "resetting", "fps": 15}, "method": "v0.env.describe"}, "timestamp": 1517131295.921443}
+{"from_rewarder": true, "message": {"headers": {"message_id": 2, "sent_at": 1517131295.9250998, "episode_id": "19"}, "body": {"env_id": "wob.mini.TicTacToe-v0", "env_state": "running", "fps": 15}, "method": "v0.env.describe"}, "timestamp": 1517131295.9253228}
+{"from_rewarder": true, "message": {"headers": {"message_id": 3, "sent_at": 1517131296.4761224, "episode_id": "19"}, "body": {"text": {"instruction": "Playing as 'X', win a game of tic-tac-toe."}}, "method": "v0.env.text"}, "timestamp": 1517131296.4763575}
